@@ -1,3 +1,9 @@
+# SVM Dual Form
+
+Code is taken from Mathieu Blondel's sklearn repository in which I have converted SVM for n*m input matrix X.
+It succesesfully runs for linear and guassian kernel on Australian Dataset.
+
+
 # Dataset : Statlog (Australian Credit Approval) Data Set
 
 This file concerns credit card applications. All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.
