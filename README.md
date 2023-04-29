@@ -1,5 +1,5 @@
 # Robust-Optimization
-Based on research papers which discuss Rubust optimization on Fuzzy concept
+Based on research papers which discuss Rubost optimization on Fuzzy concept
 
 
 
